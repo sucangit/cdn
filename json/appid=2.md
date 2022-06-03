@@ -1,0 +1,1 @@
+{"code":200,"msg":"查询成功","version_code":101,"version_name":"1.0.1","apk_url":"https://www.lanzoui.com/b07mzn80b","update_log":"布局完善,去除顶部快捷翻译\n,导航栏改为白色更加美观\n改善崩溃,优化加载速度","update_time":"2021-09-24 23:52:02"}

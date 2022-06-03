@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ceym';
+    src: url('TsangerYuMo-W02.eot');
+    src: url('TsangerYuMo-W02.eot?#iefix') format('embedded-opentype'),
+        url('TsangerYuMo-W02.woff2') format('woff2'),
+        url('TsangerYuMo-W02.woff') format('woff'),
+        url('TsangerYuMo-W02.svg#TsangerYuMo-W02') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
